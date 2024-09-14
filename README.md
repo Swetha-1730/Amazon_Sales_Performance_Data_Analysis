@@ -1,8 +1,9 @@
-# **Amazon Sales Performance Data Analysis**
+# **Amazon Sales Performance Data Analysis**([Amazon Sales Performance Data Analysis Documentation Report.pdf](https://github.com/user-attachments/files/17002484/Amazon.Sales.Performance.Data.Analysis.Documentation.Report.pdf)
 
 ## **Project Overview**
 - This project focuses on analyzing Amazon's sales data to identify factors that impact profitability, operational efficiency, and customer satisfaction.
 - The goal is to leverage data-driven insights to help Amazon stay competitive and optimize its sales strategies in a dynamic e-commerce market.
+
 
 ## **Business Problem**
 - Amazon must continuously refine its sales strategies to maintain a competitive edge.
@@ -65,7 +66,3 @@
 - **Data Completeness**: Potential gaps and inaccuracies may affect the results.
 - **Temporal Constraints**: Analysis is based on historical data and may not capture current trends.
 - **Profitability Factors**: Variations in cost structures and pricing strategies may not be fully analyzed.
-
----
-
-
