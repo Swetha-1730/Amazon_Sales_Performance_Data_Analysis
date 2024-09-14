@@ -1,4 +1,4 @@
-# **Amazon Sales Performance Data Analysis**([Amazon Sales Performance Data Analysis Documentation Report.pdf](https://github.com/user-attachments/files/17002484/Amazon.Sales.Performance.Data.Analysis.Documentation.Report.pdf)
+# **Amazon Sales Performance Data Analysis**([Report](https://github.com/user-attachments/files/17002484/Amazon.Sales.Performance.Data.Analysis.Documentation.Report.pdf)
 
 ## **Project Overview**
 - This project focuses on analyzing Amazon's sales data to identify factors that impact profitability, operational efficiency, and customer satisfaction.
